@@ -69,3 +69,10 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+---
+
+To create a project like this, just go to https://dagshub.com/repo/create and select the **Cookiecutter DVC** project template.
+
+Made with 🐶 by [DAGsHub](https://dagshub.com/).
